@@ -1,0 +1,148 @@
+.header-contact
+{
+    background-image: url(/asset/images/contact.jpg);
+}
+.container-header{
+
+}
+.row-news-contact{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px 10px 0px 1.5rem;
+    padding: 0px 2px 0px 1px;
+    /* width: 90%; */
+    /* height: 70%; */
+    position: relative;
+
+}
+.contact-email
+{
+    display: flex;
+    margin-top: 1px;
+    width: 50%;
+    padding: 15px 10px;
+    border-radius: 4px;
+    /* margin: 2px; */
+}
+.form-contact-main
+{
+    width: 60%;
+    height: 100%;
+    display: flex; 
+    flex-wrap: wrap;
+    margin: 2.5rem;
+
+}
+.contact 
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 5.5rem;
+    margin-left:  1.5rem;
+    margin-right: -1.5rem;
+    padding-left: 2px;
+}
+.contact-form
+{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0px;
+    margin-right:1.5rem;
+    margin-left: 1.5rem;
+}
+/* .form-control .custom-form
+{
+    margin-bottom: 20px;
+    padding: 14px 10px;
+
+} */
+.col-lg-9
+{
+    /* display: flex; */
+    width: 40%;
+    height: 40%;
+    padding: 2px;
+}
+.form-control
+{
+
+    display: block;
+    /* display: flex; */
+    width: 50%;
+    padding: 15px 10px;
+    border-radius: 4px;
+    margin: 2px;
+    /* margin-bottom: 20px;
+    padding: 14px 10px;
+        margin: 5px;
+    width: 164px;
+    height: 4rem; */
+   /*===============================================test  */
+    /* margin-bottom: 20px;
+    padding: 14px 10px;
+    /* margin: 5px; */
+    /* width: 232px;
+    height: 3rem; */ 
+
+}
+.form-label
+{
+    font-weight: 600;
+    color: #717275;
+    margin-bottom: 0.5rem;
+    padding: 10px;
+    margin: 10px;
+
+}
+label{
+    display: inline-block;
+}
+*
+{
+    box-sizing: border-box;
+}
+.form-control
+{
+    margin: 20px;
+
+}
+
+/* .btn-sub
+{
+    background: #000000;
+    border-radius: 0.25rem;
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-top: 20px;
+    padding: 14px 10px;
+    margin-bottom: 1rem;
+    width: 100%;
+    font-weight: 400;
+}
+.form-contrl
+{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    display: block;
+    width: 100%;
+    padding: 14px 10px;
+    font-weight: 400;
+    border-radius: 0.25rem;
+}
+.custom-form
+{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 14px 10px;
+} */
+
+.col-lg-12
+{
+    width: 50%;
+}
+.col-btn
+{
+    margin-left: auto!important;
+    width: 50%;
+}
+/* =========================================================================================== */
